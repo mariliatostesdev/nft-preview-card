@@ -1,6 +1,6 @@
 # NFT Preview Card
 
-Este projeto foi criado baseado em um exercício da Frontendmentor. 
+Este projeto é um desafio de frontend do site Frontend Mentor.  
 Ele consiste em um componente de cartão de visualização para NFTs (Tokens Não Fungíveis). O cartão exibe informações sobre a obra de arte, como título, descrição, métricas (preço em ETH e tempo restante), e detalhes sobre o autor.
 
 ## Visualização:
